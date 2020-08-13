@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=whatsapp-for-linux
+Exec=python3 /usr/local/bin/whatsapp/whatsapp.pyc
+Icon=/usr/local/bin/whatsapp/icons/whatsapp.ico
+Title=Whatsapp-Linux
+Type=Application
